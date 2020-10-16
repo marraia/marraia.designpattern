@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SpJZJAGFcaWBcjVYelc7viRVOpBO/hd+S312aYWerKGJg2WZX8ZdSHBme2mLqO+nmlSrPMLKBsbgWEta7GQIrQ==",
+  "success": true,
+  "projectFilePath": "F:\\_projetos\\marraia.designpatterns\\marraia.designpatterns\\marraia.designpatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

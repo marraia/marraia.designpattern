@@ -1,0 +1,13 @@
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\obj\Debug\netcoreapp3.1\marraia.designpatterns.csprojAssemblyReference.cache
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\obj\Debug\netcoreapp3.1\marraia.designpatterns.AssemblyInfoInputs.cache
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\obj\Debug\netcoreapp3.1\marraia.designpatterns.AssemblyInfo.cs
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\obj\Debug\netcoreapp3.1\marraia.designpatterns.csproj.CoreCompileInputs.cache
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\bin\Debug\netcoreapp3.1\marraia.designpatterns.exe
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\bin\Debug\netcoreapp3.1\marraia.designpatterns.deps.json
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\bin\Debug\netcoreapp3.1\marraia.designpatterns.runtimeconfig.json
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\bin\Debug\netcoreapp3.1\marraia.designpatterns.runtimeconfig.dev.json
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\bin\Debug\netcoreapp3.1\marraia.designpatterns.dll
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\bin\Debug\netcoreapp3.1\marraia.designpatterns.pdb
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\obj\Debug\netcoreapp3.1\marraia.designpatterns.dll
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\obj\Debug\netcoreapp3.1\marraia.designpatterns.pdb
+F:\_projetos\marraia.designpatterns\marraia.designpatterns\obj\Debug\netcoreapp3.1\marraia.designpatterns.genruntimeconfig.cache
